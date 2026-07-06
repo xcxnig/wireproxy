@@ -13,7 +13,7 @@ and exposes a socks5/http proxy or tunnels on the machine. This can be useful if
 to connect to certain sites via a wireguard peer, but can't be bothered to setup a new network
 interface for whatever reasons.
 
-# Sponsor
+# Main Sponsor
 
 <a href="https://proxy-seller.com/?partner=1Z1IPV519ZG31Q"><img src="./assets/proxy-seller.png" width="300" alt="Proxy-Seller"></a>
 
@@ -320,6 +320,14 @@ CheckAlive = 1.1.1.1
 If nothing is set for `CheckAlive`, an empty JSON object with 200 will be the response.
 
 The peer which the ICMP ping packet is routed to depends on the `AllowedIPs` set for each peers.
+
+# Secondary sponsors 
+<p>This project is supported by the DigitalOcean Open Source Credits Program:</p>
+<p>
+  <a href="https://www.digitalocean.com/">
+    <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" width="201px">
+  </a>
+</p>
 
 # Stargazers over time
 
