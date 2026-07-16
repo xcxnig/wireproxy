@@ -15,25 +15,23 @@ interface for whatever reasons.
 
 # Main Sponsor
 
-<a href="https://proxy-seller.com/?partner=1Z1IPV519ZG31Q"><img src="./assets/proxy-seller.png" width="300" alt="Proxy-Seller"></a>
+<a href="https://www.ipcook.com/?ref=EGS23I&utm_source=github&utm_medium=referral&utm_campaign=wireproxy"><img src="./assets/ipcook.png" width="300" alt="IPCook"></a>
 
-Use coupon **WIREPROXY** - 15% discount on IPv4, IPv6, ISP, and residential proxies, and 10% off mobile proxies.
+**Use code `WELCOME20` for 20% OFF.** Start with a [**FREE 100MB Trial**](https://www.ipcook.com/?ref=EGS23I&utm_source=github&utm_medium=referral&utm_campaign=wireproxy)**.**
 
-[Proxy-Seller](https://proxy-seller.com/?partner=1Z1IPV519ZG31Q) has been in the market since 2014.
+[IPcook](https://www.ipcook.com/?ref=EGS23I&utm_source=github&utm_medium=referral&utm_campaign=wireproxy) is a proxy provider offering Residential Proxies, ISP Proxies, and Datacenter Proxies for developers and businesses. Its global network helps clients leverage stable, high-quality IP resources to improve the success rate of their target websites. Whether you're collecting public web data, running large-scale automation, verifying ads, or managing multiple accounts. IPcook provides reliable proxy solutions with flexible pricing, with residential proxies available for as low as **$0.5/GB**.  
 
-They provide IPv4, IPv6, ISP, Residential, and Mobile proxies that support both HTTP(S) and SOCKS5 connection protocols. Additionally, they offer a mobile panel to create your own rotating mobile proxies, and provide easy-to-setup equipment with worldwide shipping. After setting up your own mobile proxies, Proxy-Seller can help you rent them out if the location needs it, allowing you to receive a percentage of the sales. The service offers flexible residential proxy solutions for individuals and businesses, with competitive rates starting at $3.5 per 1GB and a low-cost trial option for $1.99.
+IPcook proxy is sourced from real residential IPs, supports flexible IP rotation or sticky sessions, and works with HTTP, HTTPS, and SOCKS5 protocols. Developers can quickly integrate IPcook through APIs and popular automation frameworks, while an intuitive dashboard simplifies traffic monitoring, usage management, and team collaboration.
 
-Their loyal support team is available to address any issues individually at any time of the day or night. Many customers appreciate this level of support, as well as their very affordable prices, starting from $0.70 per IP.
+**Key Features**
 
-Proxy-Seller provides proxies for a wide range of use cases, including web scraping, gaming, social media management, multi-accounting, ad verification, market research, e-commerce monitoring, SEO tracking, and automation tasks.
-
-**Outstanding Features:**
-
-1. Mobile panel for your own proxy farms
-2. Residential, SOCKS5, HTTPS, mobile, and datacenter proxies
-3. Auto-renewal feature for proxies
-
-**Important:** If any technical issues arise, your proxies can be replaced with proxies from other countries, even if those locations are more expensive. Alternatively, support can add a few extra days to your existing proxy package.
+* Global average response time \< 0.5s, with latency as low as 50ms in major regions  
+* 99.99% uptime for reliable and uninterrupted connectivity  
+* 500 concurrent threads (scalable to 100,000 at max)  
+* 55M+ real residential IPs across 185+ countries and regions  
+* Up to 24-hour Sticky Sessions for long-running tasks  
+* Up to 10 free sub-accounts for team collaboration  
+* Flexible IP rotation by request or custom time intervals
 
 # Why you might want this
 
